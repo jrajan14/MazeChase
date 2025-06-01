@@ -1,4 +1,4 @@
-# Maze Chase                                                                               
+# Maze Chase                                                                                     
 A fast-paced, pixel-hunting maze game with gyroscope and keyboard controls
 
 Race against the clock in procedurally generated mazes to find hidden targets! Whether you're on desktop or mobile, Maze Chase offers smooth, addictive gameplay that’s easy to pick up—but hard to put down.
